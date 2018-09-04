@@ -22,8 +22,5 @@
     "type": "git",
     "url": "git+https://github.com/Elkfox/queue.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "version": "0.0.5"
 }

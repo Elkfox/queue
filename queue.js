@@ -6,7 +6,7 @@
 \___/|__/| \_/|__/\__/  /\_/
               |\
               |/
-Queue v0.0.3
+Queue v0.0.6
 https://github.com/Elkfox/queue
 Author: Team Elkfox
 Copyright (c) 2018 Elkfox Co Pty Ltd
@@ -15,8 +15,8 @@ MIT License
 ==============================================================================*/
 
 const Queue = function Queue (configuration) {
-  this.version = '0.0.3';
-  
+  this.version = '0.0.6';
+
   // Deafult settings
   const defaultConfig = {
     method: 'GET',
