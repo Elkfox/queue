@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Elkfox",
+    "email": "opensource@elkfox.com",
+    "url": "https://elkfox.github.io"
+  },
+  "browser": "queue.js",
+  "bugs": {
+    "url": "https://github.com/Elkfox/queue/issues"
+  },
+  "description": "Ajax queuing for handling frontend requests",
+  "homepage": "https://github.com/Elkfox/queue#readme",
+  "keywords": [
+    "Ajax",
+    "Queue",
+    "Request",
+    "Handler"
+  ],
+  "license": "MIT",
+  "name": "@elkfox/queue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elkfox/queue.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.5"
+}
