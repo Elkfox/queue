@@ -1,4 +1,6 @@
-# Queue - Ajax queue
+# Queue
+
+Pure Javascript Ajax requests and queuing.
 
 ## Usage
 ```
