@@ -1,6 +1,6 @@
 # Queue
 
-Pure Javascript Ajax requests and queuing.
+Pure Javascript Ajax queuing for efficient handling of frontend requests.
 
 ## Usage
 ```
